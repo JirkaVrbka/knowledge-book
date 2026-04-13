@@ -11,7 +11,7 @@ This repository serves as knowledge base for different sources and topics
 
 
 # Agentic 
-## Youtuve
+## Youtube
 - ```https://www.youtube.com/watch?v=GuTcle5edjk``` - learn MCP from NetworkChuck
 
 
