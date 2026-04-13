@@ -10,18 +10,25 @@ This repository serves as knowledge base for different sources and topics
 
 
 
+# Agentic 
+## Youtuve
+- ```https://www.youtube.com/watch?v=GuTcle5edjk``` - learn MCP from NetworkChuck
+
+
+
+
+# Design patterns
+
+## Youtube
+- ```https://www.youtube.com/watch?v=KqfMiuL3cx4``` - Specification Pattern
 
 
 
 
 
-
-
-
-
-
-
-
+# Obsidian
+ ## Youtube
+ - ```https://www.youtube.com/watch?v=cBm95iCcX2E``` - Obsidian plugins
 
 
 
